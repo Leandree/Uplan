@@ -1,0 +1,4 @@
+#Thu Apr 30 17:57:26 CEST 2020
+base.0=/Users/leandre/dev/flutter projects/planner2i/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
